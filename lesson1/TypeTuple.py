@@ -1,0 +1,12 @@
+tup = (1,2,3,4,5)
+print(len(tup))
+
+tupnew = tup + (6,7)
+print(tupnew)
+print(tup[0])
+print([0])
+print((0))
+print({0})
+print(['str'])
+print(tup.index(4))
+print(tup.count(4))
