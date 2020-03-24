@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"dist_contacts\tstatement"
+			],
+			[
+				"p",
+				"pickle\tmodule"
+			],
+			[
+				"Иван",
+				"Иван"
+			],
+			[
+				"di",
+				"dist_contacts\tstatement"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"li",
+				"listmy\tstatement"
+			],
+			[
+				"no",
+				"None\tkeyword"
+			],
+			[
+				"lo",
+				"logging\tmodule"
+			],
+			[
+				"war",
+				"warning\tfunction"
+			],
+			[
+				"get",
+				"getenv\tfunction"
+			],
+			[
+				"pa",
+				"path\tmodule"
+			],
+			[
+				"Ran",
+				"RuntimeWarning\tclass"
+			],
+			[
+				"ver",
+				"version_info\tinstance"
+			],
+			[
+				"f",
+				"f\tstatement"
+			],
+			[
+				"re",
+				"readline\tfunction"
+			],
+			[
+				"w",
+				"write\tfunction"
+			],
+			[
+				"try",
+				"try\tTry/Except/Finally"
+			],
+			[
+				"le",
+				"len\tfunction"
+			],
+			[
+				"rea",
+				"raise\tkeyword"
+			],
+			[
+				"if",
+				"if\tkeyword"
+			],
+			[
+				"al",
+				"atleast\tparam"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"sho",
+				"shoplistfile"
+			],
+			[
+				"sh",
+				"shoplistfile"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"S",
+				"SchoolMember"
+			],
+			[
+				"me",
+				"member"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"dro",
+				"droid2"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"h",
+				"height\tAttr"
+			],
+			[
+				"i",
+				"img\timg"
+			],
+			[
+				"so",
+				"sources"
+			],
+			[
+				"tar",
+				"targer_dir"
+			],
+			[
+				"c",
+				"comment"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"pA",
+				"Path"
+			],
+			[
+				"zip",
+				"zip_command"
+			],
+			[
+				"te",
+				"targer_dir"
+			],
+			[
+				"san",
+				"sanblchsun"
+			],
+			[
+				"__",
+				"__doc"
+			],
+			[
+				"nu",
+				"numbers"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"func",
+				"func_outer"
+			],
+			[
+				"fu",
+				"func_inner"
+			],
+			[
+				"print",
+				"printMax"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 380.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sun/Documents/lesson/contacts.py",
+		"/home/sun/Documents/lesson/test1.py",
+		"/home/sun/Documents/lesson/temp.css",
+		"/home/sun/Documents/lesson/counter.py",
+		"/home/sun/Documents/lesson/list_generator.py",
+		"/home/sun/Documents/lesson/lambda.py",
+		"/home/sun/Documents/lesson/user_logging.py",
+		"/home/sun/Documents/lesson/versioncheck.py",
+		"/home/sun/Documents/lesson/test.py",
+		"/home/sun/Documents/lesson/backup_With_os.py",
+		"/home/sun/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/sun/Documents/lesson/backup_With_pethlib.py",
+		"/home/sun/.config/sublime-text-3/Packages/anaconda-2.1.14/setup.py",
+		"/home/sun/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/sun/.config/sublime-text-3/Packages/SublimePackageSync/SublimePackageSync.sublime-settings",
+		"/home/sun/Documents/lesson/test.html",
+		"/home/sun/Desktop/564579662/print ('hello world')",
+		"/home/sun/Documents/lesson/print.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "versioncheck.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/lesson/mycontacts/contacts.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
